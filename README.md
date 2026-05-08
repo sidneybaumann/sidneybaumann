@@ -1,11 +1,34 @@
-# Hi, I'm Sidney
+# Hi, I’m Sidney
 
-I am currently finishing the core curriculum at 42 Lausanne.
+I am currently completing the core curriculum at 42 Lausanne, with a strong interest in:
 
-I am particularly interested in cybersecurity — especially digital forensics, threat intelligence, networking, and web development. I also want to keep an open mind toward emerging technologies and embrace AI as part of my learning journey.
+* Cybersecurity
+* Threat Intelligence
+* Digital Forensics
+* Networking
+* Systems Programming
+* Web Development
+* Infrastructure & Backend Engineering
 
-My long-term goal is to work in security architecture or a similar field.
+Over the past years, I have worked on projects involving:
 
-I am currently organizing and preparing my projects and documentation before publishing them here.
+* custom HTTP servers
+* Dockerized infrastructure
+* Unix systems programming
+* authentication & web security
+* networking and concurrent applications
+
+The repositories currently available represent the evaluated versions of my main projects from the 42 curriculum.
+
+Over the foreseeable future, I will progressively revisit, document, refine, and expand these projects in order to deepen my understanding of the underlying systems, architecture, and security concepts involved.
+
+Featured Projects
+
+* Webserv — custom HTTP server in C++
+* Inception — Docker-based infrastructure project
+* Minishell — Unix shell recreation
+* Snake42 — full-stack multiplayer web application
+
+I am also increasingly exploring the intersection between backend systems, infrastructure, cybersecurity, and AI-assisted tooling.
 
 Feel free to get in touch on LinkedIn in the meantime.
