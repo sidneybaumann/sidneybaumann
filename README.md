@@ -7,3 +7,5 @@ I am particularly interested in cybersecurity — especially digital forensics, 
 My long-term goal is to work in security architecture or a similar field.
 
 I am currently organizing and preparing my projects and documentation before publishing them here.
+
+Feel free to get in touch on LinkedIn in the meantime.
