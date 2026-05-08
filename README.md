@@ -25,9 +25,9 @@ Over the foreseeable future, I will progressively revisit, document, refine, and
 Featured Projects
 
 * Webserv — custom HTTP server in C++
-* Inception — Docker-based infrastructure project
-* Minishell — Unix shell recreation
-* Transcendence — Snake42, a full-stack multiplayer web application inspired by the classic Snake game
+* Inception — Docker-based infrastructure and system administration project (Docker, NGINX, MariaDB, Bash)
+* Minishell — Unix shell recreation focused on processes, pipes, and command execution in C
+* Transcendence — Snake42, a full-stack multiplayer web application inspired by the classic Snake game (TypeScript, React, Fastify, PostgreSQL)
 
 I am also increasingly exploring the intersection between backend systems, infrastructure, cybersecurity, and AI-assisted tooling.
 
